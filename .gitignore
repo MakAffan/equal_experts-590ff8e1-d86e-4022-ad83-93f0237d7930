@@ -1,0 +1,10 @@
+.mypy_cache/
+.pytest_cache/
+__pycache__/
+.venv/
+uncommitted/
+warehouse.db
+.coverage
+.cache
+.local
+.bash_history
